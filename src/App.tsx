@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h1>Formulário de Cadastro</h1>
+      <h1>Formulário de Contato</h1>
 
       <form>
         <div>
