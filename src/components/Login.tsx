@@ -13,7 +13,7 @@ const Login = () => {
 
       <form>
         <div>
-          <label>Nome:</label><br />
+          <label>Nomes de usuarios:</label><br />
           <input
             type="text"
             value={nome}
