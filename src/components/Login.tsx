@@ -6,9 +6,10 @@ const Login = () => {
     const [nome, setNome] = useState("");
     const [email, setEmail] = useState("");
 
+
     return (
          <div style={{ padding: "20px" }}>
-      <h1>Cadastro</h1>
+      <h1>Cadastrando usuario</h1>
 
       <form>
         <div>
