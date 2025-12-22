@@ -9,11 +9,11 @@ const Login = () => {
 
     return (
          <div style={{ padding: "20px" }}>
-      <h1>Cadastrando usuários ATIVOS</h1>
+      <h1>Cadastrando</h1>
 
       <form>
         <div>
-          <label>Nome:</label><br />
+          <label>Nomes de usuarios:</label><br />
           <input
             type="text"
             value={nome}
