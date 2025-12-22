@@ -9,7 +9,7 @@ const Login = () => {
 
     return (
          <div style={{ padding: "20px" }}>
-      <h1>Cadastrando usuários ATIVOS</h1>
+      <h1>Cadastrando usuarios</h1>
 
       <form>
         <div>
