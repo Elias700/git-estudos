@@ -3,13 +3,13 @@ import { useState } from "react";
 
 const Login = () => {
 
-    const [nome, setNome] = useState("");
-    const [email, setEmail] = useState("");
+  const [nome, setNome] = useState("");
+  const [email, setEmail] = useState("");
 
 
-    return (
-         <div style={{ padding: "20px" }}>
-      <h1>Cadastrando</h1>
+  return (
+    <div style={{ padding: "20px" }}>
+      <h1>CADASTRANDO</h1>
 
       <form>
         <div>
@@ -35,7 +35,7 @@ const Login = () => {
         </button>
       </form>
     </div>
-    )
+  )
 };
 
 export default Login;
