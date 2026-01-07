@@ -7,13 +7,13 @@ const Login = () => {
   const [email, setEmail] = useState("");
 
 
-  return (
-    <div style={{ padding: "20px" }}>
-      <h1>Cadastrando USUARIO</h1>
+    return (
+         <div style={{ padding: "20px" }}>
+      <h1>Cadastrando</h1>
 
       <form>
         <div>
-          <label>Nome:</label><br />
+          <label>Nomes de usuarios:</label><br />
           <input
             type="text"
             value={nome}
